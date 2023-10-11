@@ -1,0 +1,110 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Exo+2:wght@600&display=swap');*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo{
+    font-family:'Exo 2', sans-serif;
+    color: #0D0D59;
+    font-size: 30px;
+    margin-left: 7%;
+}
+
+#subtitulo{
+    font-family: 'Bebas Neue', sans-serif;
+    color:#0D0D59;
+    top: center;
+    margin-left: 20%;
+    font-size: 18px;
+    display: inline-block;
+}
+
+#check{
+    display: inline-block
+}
+
+fieldset{
+    border:0;
+}
+
+body{
+    background-color: #dfecff;
+    font-family: 'Sarala', sans-serif;
+    font-size: 1em;
+    color:#0D0D59;
+    margin-left:36%;
+    margin-top: 2%;
+    justify-content: center;
+}
+    
+input, select, textarea, button {
+    font-family: 'Sarala', sans-serif;
+    font-size: 1em;
+    color: #42669d;
+    border-radius: 5px;
+}
+    
+.campo{
+    margin-bottom: 1em;
+
+}
+
+.campo label{
+    margin-bottom: 0.2em;
+    color:#0D0D59;
+    display: block;
+}
+
+fieldset .grupo .campo{
+    float: left;
+    margin-right: 1em;
+}
+
+.campo input[type="text"], .campo input[type="email"], .campo select{
+    padding: 0.2em;
+    border: 1px solid #0d0d59;
+    box-shadow: 2px 2px 2px rgb(80, 104, 169);
+    display: block;
+}
+.campo textarea{
+    padding: 0.9em;
+}
+
+.campo select option{
+    padding-right: 1em;  
+}
+
+.campo input:focus, .campo select:focus, .campo textarea:focus{
+    background-color: #dfecff;
+}
+
+.botao{
+    font-size: 1.2em;
+    background: #0D0D59;
+    border: 0;
+    margin-bottom: 2em;
+    color: #fefeff;
+    padding:0.2em 0.6em;
+    box-shadow: 2px 2px 2px rgba(80, 104, 169);
+    text-shadow: 1px 1px 1px #0D0D59;
+    top:90%;
+    left: 50%;
+    margin-right: -50px;
+    transform: translate(-50% -50%);
+}
+
+.botao:hover{
+    background: #bbd3ff;
+    box-shadow: inset 2px 2px 2px rgba(0, 5, 20, 0.17);
+    text-shadow: none;
+}
+
+#check{
+    display: inline-block;
+}
+.cabecalho-menu-img2 {
+    height: 20px;
+    margin: 0 auto;
+    display: block;
+    }
