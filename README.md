@@ -1,4 +1,4 @@
-# E-commerce | #01 Practical Class ツ 
+# E-commerce Register | #01 Practical Class ツ 
 
 ### A aplicação possui:
 - Página inicial com menu de navegação por ícones;
