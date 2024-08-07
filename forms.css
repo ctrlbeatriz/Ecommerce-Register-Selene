@@ -8,15 +8,15 @@
     font-family:'Exo 2', sans-serif;
     color: #0D0D59;
     font-size: 30px;
-    margin-left: 7%;
+    margin-left: 10%;
 }
 
 #subtitulo{
     font-family: 'Bebas Neue', sans-serif;
     color:#0D0D59;
     top: center;
-    margin-left: 20%;
-    font-size: 18px;
+    margin-left: 21%;
+    font-size: 20px;
     display: inline-block;
 }
 
@@ -29,7 +29,7 @@ fieldset{
 }
 
 body{
-    background-color: #dfecff;
+    background-color: #e2ecfa;
     font-family: 'Sarala', sans-serif;
     font-size: 1em;
     color:#0D0D59;

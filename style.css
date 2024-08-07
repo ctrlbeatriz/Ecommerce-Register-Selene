@@ -68,11 +68,11 @@ body {
 }
 
 .descricao-principal-escrita-botao {
-    background-color:#7e0000;
+    background-color:#010749;
     width: 185px;
     height: 65px;
     border: none;
-    box-shadow: 4px 5px 4px 0px rgba(92, 1, 10, 0.659);
+    box-shadow: 4px 5px 4px 0px rgba(8, 83, 91, 0.659);
     border-radius: 25px;
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
